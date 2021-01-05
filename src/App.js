@@ -1,22 +1,25 @@
-import logo from './logo.svg';
 import './App.css';
+import Test from './components/testfunction';
+import Hello from './components/testclass'
+import Lists from './components/listandloop'
+import LifeCycle from './components/LifeCycle'
+import Todo from './components/todotask'
+import FormikClass from './components/FormikClass'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+
+          {/*<Test name="Samer">I dont know where is my mined</Test>*/}
+          {/*<br/>*/}
+          {/*<Hello name="Fahad"/>*/}
+          {/*<br/>*/}
+          {/*<Lists/>*/}
+          {/*<br/>*/}
+          {/*<LifeCycle/>*/}
+          {/*<Todo/>*/}
+          <FormikClass/>
       </header>
     </div>
   );
