@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93e2e21a-bf74-43c1-980e-069bd3975efa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FormikClass.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/LifeCycle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/listandloop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/testclass.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/testfunction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todotask.js" afterDir="false" />
+    <list default="true" id="93e2e21a-bf74-43c1-980e-069bd3975efa" name="Default Changelist" comment="First Commit - Upload Project">
+      <change afterPath="$PROJECT_DIR$/public/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/getHttp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FormikClass.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FormikClass.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,13 +23,14 @@
     <execution />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="24610" />
+    <option name="totalTimeSeconds" value="46902" />
     <option name="ideTimePattern" value="{{lh &quot;hr&quot;s}} {{lm &quot;min&quot;}} {{ls &quot;sec&quot;}}" />
     <option name="gitTimePattern" value="Took {{lh &quot;hour&quot;s}} {{lm &quot;minute&quot;s}} {{ls &quot;second&quot;s}}" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -52,6 +49,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../IEBook" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -88,14 +86,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609659730499</updated>
-      <workItem from="1609659731811" duration="23992000" />
+      <workItem from="1609659731811" duration="43689000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit - Upload Project">
+      <created>1609846495492</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609846495492</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit - Upload Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit - Upload Project" />
   </component>
 </project>
